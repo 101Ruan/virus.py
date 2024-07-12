@@ -1,0 +1,6 @@
+nome = input("digite seu nome: ")
+if nome == "admin":
+     print("parabéns você não pegou vírus")
+else:
+      while True:
+       print("você pegou vírus")
